@@ -1,0 +1,8 @@
+{
+    "program": "test2ClientLOCAL.ol",
+    "invocations": 1000,
+    "cooldown": 2000,
+    "maxLifetime": 60000,
+    "samplingPeriod": 125,
+    "warmup": 2000
+}
